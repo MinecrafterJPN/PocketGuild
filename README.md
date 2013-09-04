@@ -17,4 +17,3 @@ You can use /g instead of /guild
 | /guild join | `guildname` | Join selected guild |
 | /guild leave | `None` | Leave your guild |
 | /guild chat /guild c | `message` | Guild chat |
-
